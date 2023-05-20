@@ -229,6 +229,10 @@
 .navbar-for-small-width-devices{
     display: none;
 }
+
+#home{    
+    display: none;
+}
 }
 
 /* Styles for tablets and larger devices */
